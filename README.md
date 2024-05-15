@@ -30,10 +30,5 @@ After installing all dependencies, you can run the script with the following com
    python bapp_downloader.py
    ```
 
-## Support
-For questions or support, please feel free to contact us or ask in the issues section.
-
-- **Email**: [Email Contact](mailto:guilhermekurowski@hotmail.com)
-
 ## Contributions
 Contributions to the script are welcome. Feel free to create a 'pull request' or discuss improvements in the 'Issues' section.
