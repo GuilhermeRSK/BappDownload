@@ -3,8 +3,6 @@
 ## Description
 This Python script was designed to download Burp Suite extensions
 
-To run this script, the following prerequisites must be met:
-
 ## Prerequisites
 
 To run this script, the following prerequisites must be met:
